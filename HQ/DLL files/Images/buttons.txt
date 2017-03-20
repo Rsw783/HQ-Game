@@ -1,0 +1,6 @@
+A-z = 26
+0-9 = 10
+shift
+backspace
+enter
+finish
